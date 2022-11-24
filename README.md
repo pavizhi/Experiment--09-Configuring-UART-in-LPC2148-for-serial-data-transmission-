@@ -82,6 +82,8 @@ delay(200);
 ![](./O1.png)
 ## After Stimulation:
 ![](./O2.png)
+## Circuit Diagram:
+![](./o3.png)
 
 ## Result :
         UART is programmed for transmitting serial data on virtual terminal  
